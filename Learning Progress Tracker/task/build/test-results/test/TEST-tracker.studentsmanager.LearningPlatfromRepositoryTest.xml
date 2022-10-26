@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tracker.studentsmanager.LearningPlatfromRepositoryTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-10-26T12:01:04" hostname="MacBook-Pro-de-Jose.local" time="0.01">
+  <properties/>
+  <testcase name="getStudentsByEmail()" classname="tracker.studentsmanager.LearningPlatfromRepositoryTest" time="0.0"/>
+  <testcase name="Add student with registered email" classname="tracker.studentsmanager.LearningPlatfromRepositoryTest" time="0.001"/>
+  <testcase name="Build second student then it has Id 2" classname="tracker.studentsmanager.LearningPlatfromRepositoryTest" time="0.001"/>
+  <testcase name="Check if email is registered for added student" classname="tracker.studentsmanager.LearningPlatfromRepositoryTest" time="0.001"/>
+  <testcase name="getStudentsById()" classname="tracker.studentsmanager.LearningPlatfromRepositoryTest" time="0.001"/>
+  <testcase name="Check if email is registered for added student" classname="tracker.studentsmanager.LearningPlatfromRepositoryTest" time="0.0"/>
+  <testcase name="Add student with free email" classname="tracker.studentsmanager.LearningPlatfromRepositoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
